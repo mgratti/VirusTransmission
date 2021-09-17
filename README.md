@@ -10,7 +10,7 @@ The repository contains:
 - the jupyter notebook `SimpleVirusTransmissionV1.ipynb` containing the classes and the detailed tasks
 - an environment file for anaconda 
 
-Please, read carefully the manual and the indications therein, including getting acquainted with the “SimpleVirusTransmission” notebook.
+Please, read carefully the manual and the indications therein, including getting acquainted with the notebook.
 
 To run the notebook, you need recent python and numpy versions and, of course, jupyter.
 If you get errors when running the notebook, I suggest to create an environment in anaconda starting from my anaconda environment: `mg_environment.yml`
