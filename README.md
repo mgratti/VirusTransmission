@@ -22,4 +22,6 @@ Another possibility is to run the notebook on google colaboratory (https://colab
 
 Solutions to the tasks can be found in the notebook [SimpleVirusTransmissionV1Solution.ipynb](./SimpleVirusTransmissionV1Solution.ipynb)
 
+Explicit solution of the differential equation can be found (hand-written) in [diff_eq_solution.pdf](./diff_eq_solution.pdf)
+
 Error treatment for exercise 1 can be found in a separate notebook [AppendixErrorTreatment.ipynb](./AppendixErrorTreatment.ipynb)
